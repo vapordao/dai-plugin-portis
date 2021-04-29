@@ -1,4 +1,4 @@
-# dai-plugin-portis
+# vai-plugin-portis
 
 A [Vai.js][vaijs] plugin for using [portis](portis.io/) in a browser environment.
 
