@@ -1,6 +1,6 @@
 # dai-plugin-portis
 
-A [Dai.js][daijs] plugin for using [portis](portis.io/) in a browser environment.
+A [Vai.js][vaijs] plugin for using [portis](portis.io/) in a browser environment.
 
 ## Example usage
 
@@ -19,4 +19,4 @@ await maker.authenticate();
 
 ```
 
-[daijs]: https://github.com/makerdao/dai.js
+[vaijs]: https://github.com/vistadao/vai.js
